@@ -1,4 +1,4 @@
-# Stc Customer Experience Analysis (NLP & Power BI) 📊
+# STC Customer Experience Analysis (NLP & Power BI) 📊
 A comprehensive project analyzing stc customer sentiments on X (Twitter) using Natural Language Processing (NLP) and Interactive Dashboards to transform raw text into actionable business insights.
 
 ### 🎯 Project Objectives
