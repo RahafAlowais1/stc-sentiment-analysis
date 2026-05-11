@@ -25,7 +25,7 @@ Visualization: Generated sentiment-specific Word Clouds and statistical distribu
 Reporting: Integrated all insights into a Power BI dashboard for decision-makers.
 
 ### 📈 Results & Insights
-Sentiment Distribution: Analysis revealed that 71.7% of interactions are neutral inquiries, 21.2% are negative, and 7.1% are positive.
+Sentiment Distribution: Analysis revealed that 74.51% of interactions are neutral inquiries, 18.42% are negative, and 7.07% are positive.
 
 Customer Pain Points (Negative): Key concerns revolved around technical issues and service requests, highlighted by words like "المشكلة" (The Problem), "بلاغ" (Report), and "الغاء" (Cancellation).
 
