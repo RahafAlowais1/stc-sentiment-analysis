@@ -29,4 +29,4 @@ Sentiment Distribution: Analysis revealed that 71.7% of interactions are neutral
 
 Customer Pain Points (Negative): Key concerns revolved around technical issues and service requests, highlighted by words like "المشكلة" (The Problem), "بلاغ" (Report), and "الغاء" (Cancellation).
 
-Satisfaction Drivers (Positive): High satisfaction was linked to service speed and device availability, with frequent mentions of "افضل" (Best), "سريع" (Fast), and "ايفون" (iPhone).
+Satisfaction Drivers (Positive): High satisfaction was linked to service speed and device availability, with frequent mentions of "افضل" (Best), "سريع" (Fast), and "متوفر" (Available).
