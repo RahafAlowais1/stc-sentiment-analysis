@@ -7,7 +7,7 @@ Understanding Customer Voice: Extracting authentic customer opinions by filterin
 Local Sentiment Analysis: Utilizing AI models specifically tuned for the Saudi dialect and local context.
 
 ### 🛠 Tech Stack
-Python: Data cleaning and preprocessing (Pandas, Re).
+Python: Data cleaning and preprocessing.
 
 AI & NLP: SaudiBERT model for high-accuracy dialect processing.
 
